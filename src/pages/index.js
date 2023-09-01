@@ -118,6 +118,7 @@ const IndexPage = () => (
   </Layout>
 )
 
+
 /**
  * Head export to define metadata for the page
  *
@@ -126,3 +127,4 @@ const IndexPage = () => (
 export const Head = () => <Seo title="Home" />
 
 export default IndexPage
+
